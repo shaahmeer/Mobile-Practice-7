@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "391341283404",
+    "project_id": "login-a611e",
+    "storage_bucket": "login-a611e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:391341283404:android:e45d48f1a44ff849c57ce9",
+        "android_client_info": {
+          "package_name": "com.mirea.nawab.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "391341283404-9mcf523ja0pcunatl05phh18iuf04ngr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNrEm_F8-DRo-OlE_sozSsOQw888AOETc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "391341283404-9mcf523ja0pcunatl05phh18iuf04ngr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

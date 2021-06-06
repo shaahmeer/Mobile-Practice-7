@@ -1,0 +1,5 @@
+rootProject.name = "Mylab7"
+include ':app'
+include ':socketconnection'
+include ':httpurlconnection1'
+include ':firebase'
